@@ -9,8 +9,8 @@
 
 ## Integrantes
 - Carolina Arancibia Moral - Facultad de Ciencias Físicas y Matemáticas
-- Jefersson Chapilliquen - Facultad de Ciencias Físicas y Matemáticas
-- Diego Haro - Facultad de Ciencias Físicas y Matemáticas
+- Jefersson Chapilliquen García - Facultad de Ciencias Físicas y Matemáticas
+- Diego Haro Montenegro - Facultad de Ciencias Físicas y Matemáticas
 - Nicolas Wiertz Almendras - Facultad de Ciencias Físicas y Matemáticas
 
 
