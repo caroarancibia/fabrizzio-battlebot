@@ -1,5 +1,4 @@
-# <Título del proyecto> - <Año>
-< Todo lo que esté entre llaves debe ser editado por ustedes y posteriormente eliminado>
+# <Título del proyecto> - 2024
 
 < Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
@@ -9,10 +8,10 @@
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
 ## Integrantes
-- <Integrante 1> - < Facultad>
-- <Integrante 2> - < Facultad>
-- <Integrante 3> - < Facultad>
-- <Integrante 4> - < Facultad>
+- Carolina Arancibia Moral - Facultad de Ciencias Físicas y Matemáticas
+- Jefersson Chapilliquen - Facultad de Ciencias Físicas y Matemáticas
+- Diego Haro - Facultad de Ciencias Físicas y Matemáticas
+- Nicolas Wiertz Almendras - Facultad de Ciencias Físicas y Matemáticas
 
 
 ## Descripción del proyecto
