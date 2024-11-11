@@ -2,8 +2,7 @@
 
 Se deben subir:
 - Fotos de avance (en orden cronológico)
-![WhatsApp Image 2024-11-09 at 23 11 47](https://github.com/user-attachments/assets/2c4076ed-dc3c-474c-a1d8-41226c634de4)
-
+![Uploading WhatsApp Image 2024-11-09 at 23.11.47.jpeg…]()
 
 - Foto del proyecto terminado
 - Vídeo de demostración/funcionamiento
