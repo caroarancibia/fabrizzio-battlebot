@@ -2,6 +2,7 @@
 
 Se deben subir:
 - Fotos de avance (en orden cronológico)
+- 
 ![Uploading WhatsApp Image 2024-11-09 at 23.11.47.jpeg…]()
 
 - Foto del proyecto terminado
