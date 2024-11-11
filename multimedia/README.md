@@ -2,7 +2,9 @@
 - Foto del proyecto terminado
 
 - Videos de demostración/funcionamiento:
-https://github.com/user-attachments/assets/e32a1382-c60c-4c68-8c97-e6a52a9c74dc
+
+
+https://github.com/user-attachments/assets/a68c29b8-e6ef-4145-a7ae-7567f00458a6
 
 https://github.com/user-attachments/assets/8bfb0ece-a7ee-452e-99ac-e2b9e3a0b998
 
