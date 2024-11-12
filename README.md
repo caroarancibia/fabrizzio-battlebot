@@ -1,9 +1,18 @@
-# <Título del proyecto> - 2024
-
-< Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+Fabrizzio Battlebot - 2024
 
 ### Historia del Battlebot
-< Contar la historia de vida de su battlebot.>
+Oriundo de las junglas más bastas de las amazonas, Fabrizzio Parker, mejor conocido
+como el “Mono Araña” emerge de su denso bioma en busca de venganza. Antes del
+apocalipsis Fabrizzio y su amigo ranita vivían en plena armonía. Sin embargo, cuando
+la guerra estallo, la destrucción arraso con todo a su paso. La rana en un acto de
+heroísmo intento defender su morada, la jungla, fue brutalmente superada por fuerzas
+enemigas. Fabrizzio lo encontró demasiado tarde, entre los restos de lo que una vez
+fue su hogar.
+Transformado por el dolor y la rabia Fabrizzio decidió en convertirse en “el mejor
+jungla”. Equipo su arácnido cuerpo de 3 brazos giratorios que permiten atacar en todas
+las direcciones de forma implacable, acompañado de una poderosa pala para cuidar
+su radio y una velocidad propia de un insecto selvático. Cada golpe resuena con una
+promesa de justicia para su amigo caído. 
   
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
@@ -19,7 +28,16 @@
 ### Estrategia utilizada
   
 #### Ofensiva
-< Explicar brevemente el arma utilizada.>
+Fabrizzio cuenta con un sistema de combate capaz de proteger todo su radio en todas
+las direcciones Ya que posee 3 brazos estratégicamente posicionados para maximizar
+su rango de ataque. Cada uno de ellos, está equipado con motores de 12v, un
+mecanismo de retracción del largo y puños metálicos en cada uno de ellos.
+Por otro lado, en el área frontal, en el área frontal, el robot cuenta con una pala
+diseñada para cargar y lanzar a sus oponentes. Este mecanismo funciona mediante un
+resorte de extensión y un motor de 12V. La pala está conectada a una pieza semicurva
+acoplada al motor, que estira el resorte progresivamente. Cuando esta pieza alcanza
+su punto máximo, se libera, permitiendo que el resorte se contraiga rápidamente y
+eleve la pala con fuerza, generando el impulso necesario para arrojar al contrincante.
 
 #### Defensiva
 < Explicar el modo de defensa del robot.>
