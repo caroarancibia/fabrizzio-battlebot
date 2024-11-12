@@ -40,7 +40,7 @@ su punto máximo, se libera, permitiendo que el resorte se contraiga rápidament
 eleve la pala con fuerza, generando el impulso necesario para arrojar al contrincante.
 
 #### Defensiva
-< Explicar el modo de defensa del robot.>
+Estrategia defensiva: para poder defenderse, el robot cuenta con una gran capacidad de movimiento gracias a ruedas de bolas metálicas que permiten un control seguro y eficaz a la hora de evadir ataques. Por el otro lado, también cuenta con una pala que es explicada con detalle en el apartado de la estrategia ofensiva.
 
 ### Diagrama funcional
 ![Diagrama de flujo (1)](https://github.com/user-attachments/assets/df134b1d-9b6a-416f-8813-a61a78644aeb)
