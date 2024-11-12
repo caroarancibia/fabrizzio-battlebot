@@ -14,7 +14,6 @@ las direcciones de forma implacable, acompañado de una poderosa pala para cuida
 su radio y una velocidad propia de un insecto selvático. Cada golpe resuena con una
 promesa de justicia para su amigo caído. 
   
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
 ## Integrantes
 - Carolina Arancibia Moral - Facultad de Ciencias Físicas y Matemáticas
